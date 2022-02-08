@@ -4,6 +4,6 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-pyttsx3
-speech_recognition
-os
+pyttsx3 = "*"
+speech_recognition = "*"
+os = "*"
